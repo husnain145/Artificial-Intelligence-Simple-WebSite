@@ -82,6 +82,6 @@ body{
     100% {left:50%; right:90%;}
   }
 
-  /* .pic:hover{
-    background-color: black;
-  } */
+  .pic:hover{
+    width: 60%;
+  } 
