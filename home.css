@@ -51,6 +51,7 @@ body{
     width: 70%;
     margin: auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 2px 10px 0 white;
 }
 .pic{
     
