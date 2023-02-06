@@ -10,7 +10,7 @@ body{
 }
 .header
 {
-    background-color: black;
+    background-color: rgb(38, 173, 222);
     margin: 1%;
     padding: 1%;
     border-radius: 5px;
@@ -18,7 +18,7 @@ body{
     top: 2%;
 }
 .nav li a{
-    color: rgb(250, 247, 247);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 .nav li{
@@ -83,5 +83,5 @@ body{
   }
 
   /* .pic:hover{
-    width: 60%;
-  }  */
+    background-color: black;
+  } */
